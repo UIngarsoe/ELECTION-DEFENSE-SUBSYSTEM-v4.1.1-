@@ -1,7 +1,3 @@
-torch>=2.0.0
+streamlit
 numpy
-networkx  # For karmic chain tracing
-ipfs-http-client  # IPFS adapter
-tweepy  # X/Twitter adapter (or use x.com API if available)
-aiohttp  # For async federation
-loguru  # Logging
+
